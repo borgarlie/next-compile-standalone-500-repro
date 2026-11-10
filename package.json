@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build --experimental-build-mode compile",
+    "start": "node .next/standalone/server.js"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  }
+}
